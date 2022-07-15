@@ -1,2 +1,2 @@
 # DjangoProject
-Belajar Django
+WEB Portofolio
